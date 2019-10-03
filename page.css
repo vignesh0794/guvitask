@@ -1,0 +1,17 @@
+html {
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
+
+/* set background image per page */
+.home-bg {
+background-image: url(1.jpg) no-repeat center center fixed;
+}
+.signup-bg {
+background-image: url(2.jpg) no-repeat center center fixed;
+}
+.userdet-bg {
+background-image: url(3.jpg) no-repeat center center fixed;
+}
